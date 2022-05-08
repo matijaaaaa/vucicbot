@@ -2,8 +2,9 @@
 Prvi balkanski multi-purpose bot koji sadrzi sve od memova do muzike.
 
 # Proof Of Concept
-Ovo je POF(Proof Of Concept) verzija koja ima samo neke basic komande(npr mimovi...), napravljena u par sati.
+Ovo je POF(Proof Of Concept) verzija koja ima samo neke basic komande(npr mimovi...), napravljena u par sati. (Beta verzija sa svim komandama na sajtu dolazi uskoro!)
 Vjerojatno ima par bugova, al regarts uzivajte ;)
+
 
 # Kako postaviti bota?
 Prije postavljanja bota trebat cete instalirat: GIT & NODE.JS(Minalna verzija: 16.15.0)
